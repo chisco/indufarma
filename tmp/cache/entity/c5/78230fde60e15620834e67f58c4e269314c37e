@@ -1,0 +1,147 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html>
+  <head>
+    <title>QUIENES SOMOS</title>
+    <link href="/rss/" rel="alternate" title="RSS" type="application/rss+xml" />
+    <link rel="stylesheet" type="text/css" href="/reset.css" />
+    <link rel="stylesheet" type="text/css" href="/styles.css" />
+    <script type="text/javascript" src="http://www.jeroenwijering.com/embed/swfobject.js"></script>
+    <script type="text/javascript" src="http://spurrd.com/javascripts/prototype.js"></script>
+    <script type="text/javascript" src="http://spurrd.com/javascripts/scriptaculous.js?load=effects,builder"></script>
+    <script type="text/javascript" src="http://spurrd.com/javascripts/lightbox.js"></script>
+
+    <!--[if IE 6]>
+      <style type="text/css" media="screen">
+        @import url("/stylesheets/ie6.css");
+      </style>
+    <![endif]-->
+
+    <!--[if IE 7]>
+      <style type="text/css" media="screen">
+        @import url("/stylesheets/ie7.css");
+      </style>
+    <![endif]-->
+
+  </head>
+  <body>
+    <div id="page">
+      <div id="header">
+<img src="/images/indufarma1.jpg" width="244px" alt="Your Company" /><img src="/images/banner.jpg" width="244px" alt="Your Company"/>
+</div>
+
+      <div id="sidebar-wrapper">
+          <div id="sidebar">
+            <div class="spot">
+<h3>Sitios de Interes</h3>
+<div id="site_container">
+  
+    
+    <div class="entry">
+      <h4><a href="http://www.pfizer.com">Pfizer farmaceutica</a></h4>
+    </div>
+    
+    <div class="entry">
+      <h4><a href="http://www.viagra.com">Viagra Site</a></h4>
+    </div>
+    
+    <div class="entry">
+      <h4><a href="http://www.lilly.com">Lilly Labs</a></h4>
+    </div>
+    
+  
+</div>
+</div>
+<hr>
+<div id="article_container">
+  
+    <div id="articles_title"><h3>Articulos de Interes</h3></div>
+    
+    <div class="entry">
+      <h4><a href="/news/2008/12/23/mitos-sobre-medicamentos-genericos/">Mitos sobre medicamentos genericos</a></h4>
+      <div class="posted">
+        Posted by Administrator on December 23, 2008<em>|</em><img src="http://spurrd.com/assets/123/comment.png" /><a href="/news/2008/12/23/mitos-sobre-medicamentos-genericos/#disqus_thread">Comments</a><em>|</em><a href="/news/2008/12/23/mitos-sobre-medicamentos-genericos/">Read full article</a>    
+      </div>
+    </div>
+    
+    <div class="entry">
+      <h4><a href="/news/2006/06/10/nuevo-viagra/">Nuevo Viagra</a></h4>
+      <div class="posted">
+        Posted by Administrator on June 10, 2006<em>|</em><img src="http://spurrd.com/assets/123/comment.png" /><a href="/news/2006/06/10/nuevo-viagra/#disqus_thread">Comments</a><em>|</em><a href="/news/2006/06/10/nuevo-viagra/">Read full article</a>    
+      </div>
+    </div>
+    
+    <div class="entry">
+      <h4><a href="/news/2006/06/09/estudio-sobre-la-gastritis/">Estudio sobre la gastritis</a></h4>
+      <div class="posted">
+        Posted by Administrator on June 09, 2006<em>|</em><img src="http://spurrd.com/assets/123/comment.png" /><a href="/news/2006/06/09/estudio-sobre-la-gastritis/#disqus_thread">Comments</a><em>|</em><a href="/news/2006/06/09/estudio-sobre-la-gastritis/">Read full article</a>    
+      </div>
+    </div>
+    
+  
+
+  ﻿﻿﻿﻿<script type="text/javascript">
+//<![CDATA[
+(function() {
+		var links = document.getElementsByTagName('a');
+		var query = '?';
+		for(var i = 0; i < links.length; i++) {
+			if(links[i].href.indexOf('#disqus_thread') >= 0) {
+				query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
+			}
+		}
+		document.write('<script type="text/javascript" src="http://disqus.com/forums/radiant/get_num_replies.js' + query + '"></' + 'script>');
+	})();
+//]]>
+</script>
+
+
+</div>
+
+          </div>
+      </div>
+      <div id="main">
+        <div id="content-wrapper">
+          <div id="content">
+            <div id="extra">
+  <div class="box">
+    <div>
+       <img src="/images/medicines.jpg" width="500px"; height="250px";/>
+    </div>
+<h2>QUIENES SOMOS</h2>
+    <p><span>Induframa es una empresa líder en la distribución de genéricos a nivel nacional. Muchas otras cosas importantes deben ir escritas aqui, todo lo que se necesite saber de indufarma.</p>
+  </div>
+</div>
+            
+          </div>
+        </div>
+      </div>
+      <div id ="right-sidebar">
+          <div id="multi-component">
+            <div id="component">
+
+<object width="150">
+	<param name="movie" value="http://www.russiatoday.ru/s/swf/player.swf?file=http://www.russiatoday.ru/v/2009-08-18/500866_pills.flv&image=http://www.russiatoday.ru/s/obj/2009-08-18/drugs_shop.jpg&controlbar=over&skin=http://www.russiatoday.ru/s/swf/skin/stylish1.swf"></param>
+	<embed src="http://www.russiatoday.ru/s/swf/player.swf?file=http://www.russiatoday.ru/v/2009-08-18/500866_pills.flv&image=http://www.russiatoday.ru/s/obj/2009-08-18/drugs_shop.jpg&controlbar=over&skin=http://www.russiatoday.ru/s/swf/skin/stylish1.swf" type="application/x-shockwave-flash" allowfullscreen="true" width="150" />
+</object>
+</div>
+          </div>
+          <div id="nav">
+             <ul>
+  <li class="selected"><a href="/">Quienes Somos</a></li>
+  <li><a href="/tour">Clientes</a></li> <li><a href="/news">Novedades</a></li> <li><a href="/locations">Catalogo de Productos</a></li> <li><a href="/about">Contacto</a></li>
+</ul>    
+          </div>
+      </div>
+      
+
+    <div style="clear:both"></div>
+    </div>
+  </body>
+  <div id="footer-wrapper">
+    <div id="footer">
+      Copyright &copy; 2008 Indufarma. All rights reserved | <a href="mailto:info@indufarma.com">Contact</a> | <a href="/sitemap">Site Map</a> | Powered by <a href="http://radiantcms.org/">Radiant</a>
+
+    </div>
+  </div>
+</html>
